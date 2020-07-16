@@ -1,6 +1,6 @@
 # Heroku-Demo
 
-This repo contains a simple trial for deployment on Heroku.
+This repo contains a simple trial for deployment on Heroku which is basically a salary prediction model.
 
 
 # 🤓 Link to the webapp --
